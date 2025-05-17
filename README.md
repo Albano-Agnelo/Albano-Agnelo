@@ -1,5 +1,5 @@
 # 💫 About Me:
-"About Me:<br>University student at Kyoto University of Advanced Science 🎓| Department of Electrical and Mechanical systems 🛠️ <br>I know how to print "hello world" on Python and C Language.
+"About Me:<br>University student at Kyoto University of Advanced Science 🎓| Department of Electrical and Mechanical systems 🛠️ <br>I know how to print "hello world" on Python and C Language 🤓.
 
 
 ## 🌐 Socials:
